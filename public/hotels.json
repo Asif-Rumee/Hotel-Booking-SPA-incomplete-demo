@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Western inn",
+        "location": "khulna",
+        "checkin": "7/2/2020",
+        "checkout": "7/10/2020",
+        "children": 2
+    },
+    {
+        "id": 2,
+        "name": "Hotel Castle Salam int",
+        "location": "khulna",
+        "checkin": "7/2/2020",
+        "checkout": "7/10/2020",
+        "children": 3
+    },
+    {
+        "id": 3,
+        "name": "Hotel pan pacific inn",
+        "location": "dhaka",
+        "checkin": "7/15/2020",
+        "checkout": "7/20/2020",
+        "children": 1
+    },
+    {
+        "id": 4,
+        "name": "Hotel Westin int",
+        "location": "dhaka",
+        "checkin": "8/2/2020",
+        "checkout": "8/10/2020",
+        "children": 2
+    },
+    {
+        "id": 5,
+        "name": "Hotel Western inn",
+        "location": "lisbon",
+        "checkin": "",
+        "checkout": "",
+        "children": 1
+    },
+    {
+        "id": 6,
+        "name": "Hotel Western inn",
+        "location": "khulna",
+        "checkin": "7/2/2020",
+        "checkout": "7/10/2020",
+        "children": 2
+    },
+    {
+        "id": 7,
+        "name": "Hotel Castle Salam int",
+        "location": "khulna",
+        "checkin": "7/2/2020",
+        "checkout": "7/10/2020",
+        "children": 3
+    }
+]
